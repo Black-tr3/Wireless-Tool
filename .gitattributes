@@ -1,0 +1,4 @@
+wordlist.txt filter=lfs diff=lfs merge=lfs -text
+DesktopWireless filter=lfs diff=lfs merge=lfs -text
+Toolwordlist.txt filter=lfs diff=lfs merge=lfs -text
+clickToMove/** filter=lfs diff=lfs merge=lfs -text
