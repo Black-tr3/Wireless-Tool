@@ -1,4 +1,4 @@
-How to install and run Black-tr3 from GitHub
+How to install and run Black-tr3
 
 Open Terminal and execute the following command to download the tool
 
