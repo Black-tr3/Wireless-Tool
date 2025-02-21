@@ -13,18 +13,6 @@ chmod +x Black-tr3.sh
 ./Black-tr3.sh --install
 
 
-bash Black-tr3.sh
-
-
-./Black-tr3.sh
-Or
-bash Black-tr3.sh
-
-
-./Black-tr3.sh -h
-Or
-bash Black-tr3.sh -h
-
 
 ✔ Make sure you are in root mode when running the tool
 
@@ -39,3 +27,6 @@ sudo apt update && sudo apt upgrade -y
 
 
 sudo apt install git -y
+
+⚠️ When you get the handcheck, it is automatically saved in its folder, You have to stop the tool and start in the other options. 
+⚠️ When wordlist is the same thing.
