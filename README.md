@@ -2,9 +2,9 @@ How to install and run Black-tr3
 
 Open Terminal and execute the following command to download the tool
 
-git clone https://github.com/Black-tr3/Black-tr3.git
+git clone https://github.com/Black-tr3/Wireless-Tool.git
 
-cd Black-tr3
+cd Wireless-Tool
 
 
 chmod +x Black-tr3.sh
