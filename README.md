@@ -28,5 +28,6 @@ sudo apt update && sudo apt upgrade -y
 
 sudo apt install git -y
 
-⚠️ When you get the handcheck, it is automatically saved in its folder, You have to stop the tool and start in the other options. 
+⚠️ When you get the handcheck, it is automatically saved in its folder, You have to stop the tool and start in the other options.
+ 
 ⚠️ When wordlist is the same thing.
